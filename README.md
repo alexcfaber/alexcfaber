@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Checkout [418teapot.net](https://418teapot.net) for more on me.
+
 <!--
 **alexcfaber/alexcfaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
