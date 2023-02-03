@@ -2,6 +2,10 @@
 
 Checkout [418teapot.net](https://418teapot.net) for more on me.
 
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcfaber)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **alexcfaber/alexcfaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
